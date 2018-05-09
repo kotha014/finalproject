@@ -1,0 +1,36 @@
+
+	.center{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin: 300px;
+	}
+	.login{
+		display: flex;
+		justify-content: center ;
+		margin-bottom: 10px;
+	}
+	input{
+		height: 15px;
+		width: 148px;
+	}
+	label{
+		font-size: 20px;
+		width: 104px;
+		padding-right:0.5em;
+	}
+
+	button[type="button"]{
+		font-size: 22px;
+		margin-top: 20px;
+	}
+
+	.signup{
+		position: fixed;
+		top:5px;
+		right: 5px;
+	}
+
+
+
+
